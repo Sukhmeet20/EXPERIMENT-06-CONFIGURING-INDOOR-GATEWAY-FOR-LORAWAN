@@ -1,5 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
-
+## NAME : Sukhmeet Kaur G
+## REG NO : 2305001032
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
@@ -117,10 +118,10 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 17.Click on save & apply. So finally the setting up of LPS8 Dragino LoRaWAN Gateway completes.
 
 
-
 ## OUTPUT 
 
-
+<img width="1600" height="990" alt="image" src="https://github.com/user-attachments/assets/223ea541-7d57-44da-bc6d-3815413cbc0b" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/19b19092-3c12-498a-8c95-93a37331fa2b" />
 
 
 ## Result: 
